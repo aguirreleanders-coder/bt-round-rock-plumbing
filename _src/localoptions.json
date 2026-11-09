@@ -338,7 +338,9 @@
   "logo": "assets/logo.png",
   "structure": "anvil",
   "imageSet": "set-3",
-  "verification": [],
+  "verification": [
+    "hT8dNAOIXGTt24OcTgpNprQU57-DOLCasT0rQ8JwzsY"
+  ],
   "home": {
     "sub": "We take plumbing calls in Round Rock and inspect fixtures, pipes, and drains in homes, shops, and rental units.",
     "title": "Round Rock, TX Plumbing | BT Round Rock Plumbing",
@@ -350,7 +352,8 @@
       "When you ring, we ask what you notice at the fixture, where it occurs, and whether water has been shut off. We can often discuss symptoms and the next step by phone. A visit lets us inspect the pipe, valve, or drain when we cannot confirm the cause by phone.",
       "We work in houses, shops, and rental units where the bathroom, kitchen, or utility room sets the access route. Older buildings can place pipes behind finished walls or under floors, while newer construction may use different fittings and shutoff valves. That work takes us through Round Rock, Brushy Creek, Windemere, and Wells Branch.",
       "Before the van leaves, we test the fixture and nearby connections for normal operation. We gather tools, remove packaging, and tidy the work area. We show you the completed work and explain any valve, access panel, or part that you may need to locate later."
-    ]
+    ],
+    "servicesLede": "Find the job you need below. Each of the six opens onto what the work involves, how it is usually done, and what moves the price."
   },
   "now": "2026-11-01T04:02:55.855Z"
 }
